@@ -20,9 +20,6 @@ Hajimemashite!<br>I'm Kautilya DK, a 20-year-old coder with a fascination for bu
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=kautilyadevaraj&icon=1&color=12)](https://visitcount.itsvg.in)
 
