@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hajimemashite!<br>I'm Kautilya DK, a 19-year-old coder with a fascination for building things. When I'm not elbow-deep in code, I enjoy learning about the blockchain ecosystem.
+Hajimemashite!<br>I'm Kautilya DK, a 20-year-old coder with a fascination for building things. When I'm not elbow-deep in code, I enjoy learning about the blockchain ecosystem.
 
 
 ## 🌐 Socials:
