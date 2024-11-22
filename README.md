@@ -23,4 +23,3 @@ Hajimemashite!<br>I'm Kautilya DK, a 20 year-old coder with a fascination for bu
 ---
 [![](https://visitcount.itsvg.in/api?id=kautilyadevaraj&icon=1&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
