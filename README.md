@@ -1,6 +1,4 @@
-# 💫 About Me:
-Hajimemashite!<br>I'm Kautilya DK, a 19 year-old coder with a fascination for building things. When I'm not elbow-deep in code, I enjoy learning about the blockchain ecosystem.
-
+![](https://github.com/kautilyadevaraj/kautilyadevaraj/blob/main/standard(1).gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kautilyadevaraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kautilya-d-k-00b7b7297/)
