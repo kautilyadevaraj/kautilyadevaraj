@@ -1,6 +1,6 @@
 ![](https://github.com/kautilyadevaraj/kautilyadevaraj/blob/main/standard(1).gif)
 
-## 🌐 Socials:
+## 🌐 Social:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/kautilyadevaraj) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kautilya-d-k-00b7b7297/) [![Discord](https://skillicons.dev/icons?i=discord)](https://www.linkedin.com/in/kautilya-d-k-00b7b7297/)
 
 | Frameworks  |
