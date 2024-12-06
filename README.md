@@ -12,7 +12,7 @@
 | ------------- |
 | ![](https://skillicons.dev/icons?i=solidity,javascript,typescript,java,python,html,css,c,cpp&theme=light)  |
 
-| Databases  |
+| Database  |
 | ------------- |
 | ![](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=light) | ![](https://skillicons.dev/icons?i=npm,pnpm,yarn&theme=light)  | ![](https://skillicons.dev/icons?i=vercel,git&theme=light) |
 
