@@ -14,7 +14,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=next,bootstrap,tailwindcss,nodejs,react,flask&theme=light" />
+        <img src="https://skillicons.dev/icons?i=next,bootstrap,tailwindcss,nodejs,react,flask,nest,tailwind&theme=light" />
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=solidity,javascript,typescript,java,python,html,css,c,cpp&theme=light" />
@@ -23,14 +23,12 @@
   </table>
 </div>
 
-<br/>
-
 <!-- Row 2: Databases + Package Managers + Others -->
 <div align="center">
   <table>
     <tr>
       <th>Databases</th>
-      <th>Package Managers</th>
+      <th>DevOps</th>
       <th>Others</th>
     </tr>
     <tr>
@@ -38,10 +36,10 @@
         <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=light" />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn&theme=light" />
+        <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,aws&theme=light" />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=vercel,git&theme=light" />
+        <img src="https://skillicons.dev/icons?i=vercel,git,supabase,npm,pnpm,yarn&theme=light" />
       </td>
     </tr>
   </table>
