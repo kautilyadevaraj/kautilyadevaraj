@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/kautilyadevaraj) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kautilyadk) [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/569491969735262219)</div>
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram)](https://instagram.com/kautilyadevaraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kautilyadk) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/569491969735262219) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kautilyadk@gmail.com)</div>
 
 <div align="center">
   <table>
@@ -45,6 +45,7 @@
   </table>
 </div>
 
+<br/>
 <br/>
 
 <picture>
