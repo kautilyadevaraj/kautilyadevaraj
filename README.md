@@ -27,24 +27,11 @@
 | ------------- |
 | ![](https://skillicons.dev/icons?i=vercel,git&theme=light) |
 
-<div align="center">
-
-  <table border="0">
-    <tr>
-      <td align="center">
-        <strong>LeetCode Stats</strong><br/>
-        <img src="https://leetcard.jacoblin.cool/a1pha2" />
-      </td>
-      <td align="center">
-        <strong>GitHub Streak</strong><br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kautilyadevaraj&theme=dark&hide_border=false"/><br/><br/>
-        <strong>Top Languages</strong><br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kautilyadevaraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-      </td>
-    </tr>
-  </table>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kautilyadevaraj/kautilyadevaraj/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kautilyadevaraj/kautilyadevaraj/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kautilyadevaraj/kautilyadevaraj/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
