@@ -17,7 +17,7 @@
         <img src="https://skillicons.dev/icons?i=next,bootstrap,tailwindcss,nodejs,react,flask,nest,tailwind&theme=light" />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=solidity,javascript,typescript,java,python,html,css,c,cpp&theme=light" />
+        <img src="https://skillicons.dev/icons?i=solidity,javascript,typescript,java,python,html,css,c,cpp,md&theme=light" />
       </td>
     </tr>
   </table>
@@ -29,21 +29,23 @@
     <tr>
       <th>Databases</th>
       <th>DevOps</th>
-      <th>Others</th>
+      <th>Miscellaneous</th>
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=light" />
+        <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,prisma&theme=light" />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,aws&theme=light" />
+        <img src="https://skillicons.dev/icons?i=docker,vercel,git,github,githubactions,aws&theme=light" />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=vercel,git,supabase,npm,pnpm,yarn&theme=light" />
+        <img src="https://skillicons.dev/icons?i=vercel,git,supabase,npm,pnpm,notion,postman&theme=light" />
       </td>
     </tr>
   </table>
 </div>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kautilyadevaraj/kautilyadevaraj/output/pacman-contribution-graph-dark.svg">
