@@ -1,7 +1,10 @@
-![](https://github.com/kautilyadevaraj/kautilyadevaraj/blob/main/standard(1).gif)
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Hey!%20I'm%20Kautilya%20DK"/></div>
 
-## 🌐 Socials:
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/kautilyadevaraj) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kautilya-d-k-00b7b7297/) [![Discord](https://skillicons.dev/icons?i=discord)](https://www.linkedin.com/in/kautilya-d-k-00b7b7297/)
+<h1 align="center">Let's Connect!</h1>
+
+<div align="center">
+  
+  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/kautilyadevaraj) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kautilyadk) [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/569491969735262219)</div>
 
 | Frameworks  |
 | ------------- |
@@ -24,10 +27,24 @@
 | ------------- |
 | ![](https://skillicons.dev/icons?i=vercel,git&theme=light) |
 
+<div align="center">
 
-# 📊 LeetCode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/a1pha2)
-# 📊 GitHub Stats:
+  <table border="0">
+    <tr>
+      <td align="center">
+        <strong>LeetCode Stats</strong><br/>
+        <img src="https://leetcard.jacoblin.cool/a1pha2" />
+      </td>
+      <td align="center">
+        <strong>GitHub Streak</strong><br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kautilyadevaraj&theme=dark&hide_border=false"/><br/><br/>
+        <strong>Top Languages</strong><br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kautilyadevaraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+      </td>
+    </tr>
+  </table>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kautilyadevaraj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kautilyadevaraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
+
+
