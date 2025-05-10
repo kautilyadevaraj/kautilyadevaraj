@@ -11,7 +11,6 @@ I build things that talk to blockchains, fend off threats, and make the web a sm
 
 </div>
 
-
 <div align="center">
   <table>
     <tr>
@@ -51,8 +50,11 @@ I build things that talk to blockchains, fend off threats, and make the web a sm
   </table>
 </div>
 
+<br>
+
 ![Screenshot](./contributions.png)
-Last updated - 11th May, 2025
+***Last updated - 11th May, 2025***
+<br>
 <br>
 
 <picture>
