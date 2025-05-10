@@ -51,8 +51,8 @@ I build things that talk to blockchains, fend off threats, and make the web a sm
   </table>
 </div>
 
-
-
+![Screenshot](./contributions.png)
+Last updated - 11th May, 2025
 <br>
 
 <picture>
