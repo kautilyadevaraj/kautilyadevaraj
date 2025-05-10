@@ -1,4 +1,23 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Hey!%20I'm%20Kautilya%20DK"/></div>
+<div align="center"><picture>
+  <!-- Dark theme: white text on a rich blur-gradient -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=blur&color=0:3a1c71,100:d76d77&height=300&text=My%20Awesome%20Project&fontColor=FFFFFF"
+  />
+
+  <!-- Light theme: black text on a soft pastel blur -->
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=blur&color=0:ff9a9e,100:fad0c4&height=300&text=My%20Awesome%20Project&fontColor=000000"
+  />
+
+  <!-- Fallback (will show the light version by default) -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=blur&color=0:ff9a9e,100:fad0c4&height=300&text=My%20Awesome%20Project&fontColor=000000"
+    alt="My Awesome Project"
+  />
+</picture>
+</div>
 
 <br>
 <div align="center">
@@ -50,11 +69,6 @@ I build things that talk to blockchains, fend off threats, and make the web a sm
   </table>
 </div>
 
-<br>
-
-![Screenshot](./contributions.png)
-***Last updated - 11th May, 2025***
-<br>
 <br>
 
 <picture>
