@@ -6,9 +6,9 @@
 <br>
 <div align="center">
   
-## Full-Stack Developer | Blockchain Enthusiast
+## Full-Stack Developer | Cybersecurity Enthusiast
   
-I build things that talk to blockchains, fend off threats, and make the web a smarter, safer place. From decentralized systems to deepfake detection, I like mixing logic with a bit of chaos—just enough to keep it interesting. Passionate about clean UX, real-world impact, and code that actually does something cool.
+I build cool stuff. Drop me a follow or star any of my repositories if you find them helpful! Most of my projects are open source.
   
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram)](https://instagram.com/kautilyadevaraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kautilyadk) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kautilyadk@gmail.com)
 
