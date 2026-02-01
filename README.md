@@ -55,11 +55,11 @@ I build things that talk to blockchains, fend off threats, and make the web a sm
 
 <br>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kautilyadevaraj/kautilyadevaraj/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kautilyadevaraj/kautilyadevaraj/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kautilyadevaraj/kautilyadevaraj/output/pacman-contribution-graph.svg">
-</picture>
-
+</picture> -->
+![My Space Shooter](game.gif)
 
 
