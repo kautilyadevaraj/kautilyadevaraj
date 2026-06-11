@@ -6,7 +6,7 @@
 <br>
 <div align="center">
   
-## Full-Stack Developer | Cybersecurity Enthusiast
+## Full-Stack Developer
   
 I build cool stuff. Drop me a follow or star any of my repositories if you find them helpful! Most of my projects are open source.
   
